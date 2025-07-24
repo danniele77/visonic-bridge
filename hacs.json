@@ -1,0 +1,7 @@
+{
+  "name": "Visonic Bridge",
+  "render_readme": true,
+  "domains": ["alarm_control_panel"],
+  "country": "global",
+  "filename": "custom_components/visonic_bridge/manifest.json"
+}
