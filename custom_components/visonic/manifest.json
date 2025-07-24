@@ -1,0 +1,9 @@
+{
+  "domain": "visonic",
+  "name": "Visonic Alarm",
+  "version": "1.0.0",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@danniele77"],
+  "documentation": "https://github.com/danniele77/visonic-bridge"
+}
